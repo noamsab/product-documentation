@@ -1,6 +1,6 @@
 ---
 title: metadata
-displayName: Plugins
+displayName: DNS Plugins
 published: true
 order: 40
 ---

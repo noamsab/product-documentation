@@ -25,7 +25,7 @@ When specifying a custom domain, you can use any domain or subdomain for which y
 
 1\. When <a href="https://gcore.com/docs/cdn/getting-started/create-a-cdn-resource/create-a-cdn-resource-for-only-static-files" target="_blank">creating a CDN resource</a>, enter your desired domain or subdomain name in the "Custom domain" section (Step #3). You can also specify multiple domains by clicking the "+" icon.  
 
-<img src="https://assets.gcore.pro/docs/cdn/cdn-resource-options/general/create-and-set-a-custom-domain-for-the-content-delivery-via-cdn/12865716431377.png" alt="" width="50%">
+<img src="https://assets.gcore.pro/docs/cdn/add-an-ssl-certificate-to-deliver-content-over-https/12865716431377.png" alt="" width="50%">
 
 2\. Continue with the creation of the CDN resource.
 
@@ -45,7 +45,7 @@ Replace _cl-\*\*\*\*.gcdn.co_ will the value specific to your account.
 
 If you specified multiple custom domains in step 1, add CNAME records for all additional custom domains.
 
-You can use the ```dig``` command in the terminal or an <a href="https://gcore.com/dev-tools/dns-lookup" target="_blank">online dig tool</a> to check the record. If the record was added correctly, you should receive a response similar to the one specified above.
+You can use the ```dig``` command in the terminal or an <a href="https://toolbox.googleapps.com/apps/dig" target="_blank">online dig tool</a> to check the record. If the record was added correctly, you should receive a response similar to the one specified above.
 
 6\. Complete the CDN resource creation. You will see the following pop-up when all configurations are completed:
 
