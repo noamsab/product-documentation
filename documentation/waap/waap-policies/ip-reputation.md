@@ -58,7 +58,7 @@ Use JavaScript validation to verify traffic originating from the TOR network. Th
 
 Proxy networks are commonly used for web anonymity, but can also be used by hackers, scrapers, and spammers to crawl and hack web applications. 
 
-Use JavaScript validation to verify traffic from known proxy networks. This provides enhanced visibility and security against potential risks associated with proxy usage within web applications. 
+Block traffic from IP addresses associated with the TOR network.
 
 ### Traffic from hosting services 
 
